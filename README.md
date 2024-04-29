@@ -6,7 +6,10 @@ Llama3 Summary Generator is an application designed to streamline your video sum
 ## Installation and Usage Guide
 
 ### 1. Download Ollama
-To get started, download Llama3 from the official website [here](https://ollama.com/). Ensure you have the latest version to enjoy all the features and enhancements.
+To get started, download Llama3 from the official website [here](https://ollama.com/). Ensure you have the latest version to enjoy all the features and enhancements. To download model run this command:
+```bash
+ollama pull llama3
+```
 
 ### 2. Setting Up Environment
 Create a new virtual environment to isolate dependencies. Once set up, install the necessary packages listed in `requirements.txt`. This ensures a clean and efficient environment tailored for running Llama3 Summary Generator.
