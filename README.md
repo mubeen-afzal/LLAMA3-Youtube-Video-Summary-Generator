@@ -1,4 +1,4 @@
-# LLAMA3-Youtube-Video-Summary-Generator
+# LLAMA3 Youtube Video Summary Generator
 
 ## Description
 Llama3 Summary Generator is an application designed to streamline your video summarization process. Leveraging the power of Llama3 (LLM) locally deployed and Streamlit for a user-friendly web interface, this tool simplifies the task of extracting concise summaries from YouTube videos.
